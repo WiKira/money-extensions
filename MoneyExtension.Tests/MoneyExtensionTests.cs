@@ -1,7 +1,7 @@
-﻿namespace MoneyExtension.Tests;
+﻿namespace WKiraMoneyExtensions.Tests;
 
 [TestClass]
-public sealed class MoneyExtensionTests
+public sealed class WKiraMoneyExtensionsTests
 {
     [TestMethod]
     public void ShouldConvertDecimalToInt()

@@ -1,4 +1,4 @@
-﻿namespace MoneyExtension;
+﻿namespace WKiraMoneyExtensions;
 
 public static class Money
 {

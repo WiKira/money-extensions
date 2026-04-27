@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MoneyExtension\MoneyExtension.csproj" />
+    <ProjectReference Include="..\MoneyExtension\WKiraMoneyExtensions.csproj" />
   </ItemGroup>
 
 </Project>
